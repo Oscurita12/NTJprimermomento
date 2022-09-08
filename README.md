@@ -8,7 +8,7 @@ Se realizan ejercicios puestos en la clase número 6
 
 ***
 
-#### Programado por: Clara Manuela Restrepo Rúa 
+#### Programado por: Clara Manuela Restrepo Rúa y Mateo Franco
 Se realizaron actividades con while
 - while 
 - condicionales
