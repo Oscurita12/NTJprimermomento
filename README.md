@@ -8,6 +8,7 @@ Se realizan ejercicios puestos en la clase número 6
 
 ***
 
+#### Programado por: Clara Manuela Restrepo Rúa 
 Se realizaron actividades con while
 - while 
 - condicionales
